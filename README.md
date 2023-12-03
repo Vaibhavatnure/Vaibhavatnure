@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vaibhavatnure
+- 👋 Hi, I’m Vaibhav Atnure.
 - 👀 I’m interested in Conceptual Coding
-- 🌱 I’m currently learning Android development.
+- 🌱 I’m currently learning Android as well as web development.
 - 💞️ I’m looking to collaborate on Android Development.
 - 📫 You can reach me on vaibhavatnure12@gmail.com
 
